@@ -1,6 +1,9 @@
-# wechat_group_members
+# wechat group members export
+# 微信群成员列表导出
 
 ## 主要原理
+
+目前只支持windows 平台
 
 通过`pywinauto`分析微信界面元素，提取群成员昵称和用户名
 
